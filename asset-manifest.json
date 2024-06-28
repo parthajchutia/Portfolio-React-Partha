@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React-/static/css/main.950c8f9f.css",
+    "main.js": "/Portfolio-React-/static/js/main.d6062160.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/Portfolio-React-/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/Designer.png": "/Portfolio-React-/static/media/Designer.580cc6dda0bffc9945a5.png",
+    "static/media/Partha .pdf": "/Portfolio-React-/static/media/Partha .93ed934ed157fcee4809.pdf",
+    "index.html": "/Portfolio-React-/index.html",
+    "main.950c8f9f.css.map": "/Portfolio-React-/static/css/main.950c8f9f.css.map",
+    "main.d6062160.js.map": "/Portfolio-React-/static/js/main.d6062160.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/Portfolio-React-/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.950c8f9f.css",
+    "static/js/main.d6062160.js"
+  ]
+}
